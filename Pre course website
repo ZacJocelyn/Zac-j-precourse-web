@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <title>Zac J website</title>
+      <link type"text/css" rel="stylesheet" href="/Users/zacjocelyn/Documents/Galvanize pre course/pre course website.css">
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="name">Zac Jocelyn</h1>
+            <p class="pageone">Page: 1</p>
+            <p class="pagetwo">Page: 2</p>
+            <p class="email">zacjocelyn@gmail.com</p>
+        </div>
+        <div class="center">
+            <h1 class="aboutme">About Me</h1>
+            <p id="aboutme">Hi, my name is Zac. I was born in Colorado, but I've lived all over the country and world. The most fun place I've lived
+            in is the Caribbean and Florida Key's on a sail boat! I spend most of my free time playing and recording music in my band
+            <a class="bandlink" href="https://www.facebook.com/Creeksidehavenofficial/">Creekside Haven</a>. When I'm not with
+            my band I'm spending time with my new wife Tia! Here is a picture of us at our wedding!</p>
+            <img class="tia" src="https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/13699985_10154222718636405_7250105149960943390_n.jpg?oh=9b6d85043577a39434549322fd2b38a0&oe=58A94194" />
+
+
+        </div>
+        <div id="footer">
+
+        </div>
+    </body>
+  </html>
